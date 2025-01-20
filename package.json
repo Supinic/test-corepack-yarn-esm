@@ -1,0 +1,8 @@
+{
+  "name": "test-corepack-yarn-esm",
+  "packageManager": "yarn@4.6.0",
+  "type": "module",
+  "scripts": {
+    "start": "yarn node index.js"
+  }
+}
